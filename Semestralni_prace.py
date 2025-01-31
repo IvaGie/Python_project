@@ -1,4 +1,4 @@
-import imageio.v2 as imageio
+import imageio.vs as imageio
 import numpy as np
 
 #funcionIsBlackandWhite
